@@ -1,0 +1,11 @@
+# Camoufox — anti-detect browser (includes playwright dependency)
+camoufox[geoip]>=0.4.0
+
+# RunPod — serverless worker SDK
+runpod>=1.7.0
+
+# 2Captcha — captcha solving service
+2captcha-python>=1.5.0
+
+# HTTP client for proxy rotation API calls
+httpx>=0.27.0

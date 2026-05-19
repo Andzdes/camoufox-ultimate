@@ -1,0 +1,13 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+.venv
+venv
+*.md
+!deploy/README.md
+scripts/
+.dockerignore
+Instruction.md
